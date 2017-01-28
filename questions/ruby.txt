@@ -1,0 +1,4 @@
+I would like to learn more syntax with Ruby.
+I would like to see how powerful Ruby can be.
+Is Ruby better than Haml?
+Why are people so obsessed with Haml?
